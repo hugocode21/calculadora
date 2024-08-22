@@ -1,0 +1,33 @@
+
+/*estilo de encabezado*/
+h1{color: aquamarine; 
+background-color: blueviolet;
+
+/*borde del título*/
+border-style: solid;
+}
+
+
+/*fondo de página*/
+body {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+
+
+/*alineado vertical de input, bordes, margenes, relleno*/
+input{display: block;
+    margin: 5px 5px 15px 5px;
+    border: 3px solid rgb(255, 255, 1);
+    border-radius: 8px;
+
+}
+
+input[ type="submit"]{
+margin-top: 30px;
+border-radius: 0px;
+}
+
+
+    
